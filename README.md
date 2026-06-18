@@ -4,11 +4,6 @@ Welcome to **Safarino**, a powerful and intelligent **Trip Planner web applicati
 
 ---
 
-## 🌍 Live Demo
-
-https://safarino.chbk.app/
-
----
 
 ## 📆 Key Features
 
@@ -87,23 +82,6 @@ https://safarino.chbk.app/
 
 ---
 
-## 🚀 SEO Keywords
-
-```
-trip planner django
-safarino travel app
-django itinerary planner
-custom travel planning website
-online travel companion matcher
-django hotel booking platform
-find travel partner online
-django map itinerary generator
-rent room travel site
-django travel website project
-```
-
----
-
 ## 🔧 Installation Guide
 
 ```bash
@@ -169,11 +147,3 @@ For suggestions, collaborations, or questions, feel free to open an issue or con
 
 Safarino is a powerful Django-based travel planner web app where users can plan custom itineraries, find travel companions, book hotels, and discover top-rated places with reviews.
 
----
-
-## 📈 SEO Tags
-
-```
-#travel #tripplanner #django #itinerary #vacation #tourism
-#travelapp #customtravel #safarino #booking #review #findcompanion
-```
